@@ -1,5 +1,4 @@
 const surprises = [
-  { title: "Surprise 1", link: "https://example.com" },
 ];
 
 const calendar = document.getElementById("calendar");
