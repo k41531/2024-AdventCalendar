@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+
+html {
+    height: 100%;
+    overflow: hidden;
+}
+
+body {
+    margin: 0;
+    max-width: 36rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header  {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+hr {
+    margin-bottom: 0.25rem;
+}
+
+h1 {
+    font-size: large;
+}
+
+a {
+    font-family: initial;
+}
+
+.calendar {
+    margin-top: 1rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 1rem;
+}
