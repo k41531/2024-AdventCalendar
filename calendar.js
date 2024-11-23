@@ -1,5 +1,3 @@
-import "/components/calendar-door.js";
-
 const surprises = [
   { title: "Surprise 1", link: "https://example.com" },
 ];
