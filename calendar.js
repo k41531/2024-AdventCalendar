@@ -1,4 +1,5 @@
 const surprises = [
+  { title: "LLM Agents can Autonomously Hack Websites", link: "https://kaisei.dev/posts/LLM_Agents_can_Autonomously_Hack_Websites.md" },
 ];
 
 const calendar = document.getElementById("calendar");
