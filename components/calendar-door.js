@@ -42,7 +42,7 @@ class CalendarDoor extends HTMLElement {
             aspect-ratio: 1;
             cursor: ${canOpen ?`pointer`:`cursor`};
             box-sizing: border-box;
-            padding: 4px 8px;
+            padding: 4px 8px 0px 8px;
             background: white;
             border: 1px solid black;
           }
@@ -51,6 +51,8 @@ class CalendarDoor extends HTMLElement {
             width: 100%;
             height: 100%;
             font-size: small;
+            overflow: scroll;
+            line-height: 1.5;
           }
           .day {
             font-size: smaller;
