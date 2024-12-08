@@ -6,6 +6,7 @@ const surprises = [
   { title: "eyeballvul: a future-proof benchmark for vulnerability detection in the wild", link: "https://kaisei.dev/posts/eyeballvul_a_future-proof_benchmark_for_vulnerability_detection_in_the_wild.md" },
   { title: "Hacking, The Lazy Way: LLM Augmented Pentesting", link: "https://kaisei.dev/posts/Hacking_The_Lazy_Way_LLM_Augmented_Pentesting.md" },
   { title: "Fuzz4All: Universal Fuzzing with Large Language Models", link: "https://kaisei.dev/posts/Fuzz4All_Universal_Fuzzing_with_Large_Language_Models.md" },
+  { title: "Is Generative AI the Next Tactical Cyber Weapon For Threat Actors? Unforeseen Implications of AI Generated Cyber Attack", link: "https://kaisei.dev/posts/Is_Generative_AI_the_Next_Tactical_Cyber_Weapon_For_Threat_Actors_Unforeseen_Implications_of_AI_Generated_Cyber_Attack.md" },
 ];
 
 const calendar = document.getElementById("calendar");
