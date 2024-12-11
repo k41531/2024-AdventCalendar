@@ -8,6 +8,7 @@ const surprises = [
   { title: "Fuzz4All: Universal Fuzzing with Large Language Models", link: "https://kaisei.dev/posts/Fuzz4All_Universal_Fuzzing_with_Large_Language_Models.md" },
   { title: "The Anonymity of the Dark Web: A Survey 01", link: "https://kaisei.dev/posts/The_Anonymity_of_the_Dark_Web_A_Survey_01.md" },
   { title: "The Anonymity of the Dark Web: A Survey 02", link: "https://kaisei.dev/posts/The_Anonymity_of_the_Dark_Web_A_Survey_02.md" },
+  { title: "The Anonymity of the Dark Web: A Survey 03", link: "https://kaisei.dev/posts/The_Anonymity_of_the_Dark_Web_A_Survey_03.md" },
 ];
 
 
