@@ -14,6 +14,7 @@ const surprises = [
   { title: "Missed!", link: "#" },
   { title: "Missed!", link: "#" },
   { title: "The Anonymity of the Dark Web: A Survey 05", link: "https://kaisei.dev/posts/The_Anonymity_of_the_Dark_Web_A_Survey_05.md" },
+  { title: "The Anonymity of the Dark Web: A Survey 06", link: "https://kaisei.dev/posts/The_Anonymity_of_the_Dark_Web_A_Survey_06.md" },
 ];
 
 
