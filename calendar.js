@@ -18,6 +18,7 @@ const surprises = [
   { title: "The Anonymity of the Dark Web: A Survey 07", link: "https://kaisei.dev/posts/The_Anonymity_of_the_Dark_Web_A_Survey_07.md" },
   { title: "CVE-Driven Attack Technique Prediction with Semantic Information Extraction and a Domain-Specific Language Model", link: "https://kaisei.dev/posts/CVE_Driven_Attack_Technique_Prediction_with_Semantic_Information_Extraction_and_a_Domain_Specific_Language_Model.md" },
   { title: "Cross-Site Scripting Attacks and DefensiveTechniques: A Comprehensive Survey", link: "https://kaisei.dev/posts/Cross_Site_Scripting_Attacks_and_Defensive_Techniques_A_Comprehensive_Survey.md" },
+  { title: "Conti Inc. : Understanding the Internal Discussions of a large Ransomware-as-a-Service Operator with Machine Learning", link: "https://kaisei.dev/posts/Conti_Inc_Understanding_the_Internal_Discussions_of_a_large_Ransomware_as_a_Service_Operator_with_Machine_Learning.md" },
 ];
 
 
